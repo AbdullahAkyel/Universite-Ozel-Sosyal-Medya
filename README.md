@@ -37,5 +37,8 @@ Bu proje, React ve Firebase teknolojileri kullanılarak geliştirilmiştir.
 
 Abdullah AKYEL - akyel0365@gmail.com - +90 (546) 628 03 65
 
+![image](https://github.com/user-attachments/assets/72bceb76-dfb9-49b1-9686-37af85fee3c6)
+
+
 
 MIT Lisansı © 2025 Abdullah Akyel
